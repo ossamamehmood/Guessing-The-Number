@@ -4,7 +4,7 @@ attempts = 0
 
 entry = ""
 
-''' a loop that repeats while the users guess is not the same as the answer '''
+''' a loop that repeats while the users guess isn't the same as the answer '''
 
 print("\n\t\t Guess the Number - Game")
 
